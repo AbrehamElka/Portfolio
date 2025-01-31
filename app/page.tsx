@@ -20,9 +20,14 @@ export default function Home() {
 
         {/* About Me Section */}
         <p className="mt-6 text-gray-700 text-lg leading-relaxed">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Voluptatibus doloribus dignissimos laboriosam provident delectus ratione! 
-          Doloremque consequuntur, culpa maxime harum inventore incidunt molestias.
+        I am a passionate developer with a strong focus on building 
+        efficient and user-friendly applications. My expertise lies
+         in creating intuitive solutions that enhance productivity and
+          provide meaningful user experiences. With a keen eye for 
+          detail and a drive for innovation, I enjoy working on projects that solve real
+          -world problems using modern technologies. My skill set includes front
+          -end and back-end development, API integration, and AI-driven
+           solutions, always striving to merge creativity with functionality.
         </p>
       </div>
     </div>

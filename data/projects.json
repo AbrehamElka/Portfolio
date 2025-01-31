@@ -1,18 +1,20 @@
 [
     {
         "id": "1",
-        "name": "Project 1",
-        "short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequuntur",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequuntur, alias, sunt beatae dignissimos nulla suscipit commodi facere corporis necessitatibus dolorem magnam. Rem ducimus, illo dolores quia necessitatibus fugiat, esse, voluptatibus perferendis ad dolore exercitationem repellendus asperiores voluptate repudiandae fugit ullam! Officiis natus atque quo perspiciatis tempore veritatis incidunt ratione voluptatem sunt. Unde modi perferendis quis mollitia quod, voluptatem cumque quasi veritatis voluptates eveniet rem recusandae, exercitationem voluptate architecto error? Libero quis omnis labore architecto? Cum doloribus ipsam quam voluptas voluptatibus distinctio accusamus rerum, ipsa possimus autem. Maiores, alias impedit quasi saepe nulla deserunt tenetur dolorum magnam sapiente velit qui voluptate ipsum earum, ex fuga soluta quam dignissimos! Quidem molestias, quos quod nemo dolorem quibusdam quas. Commodi eius, aperiam eligendi aspernatur, praesentium illum eos quod atque laudantium accusantium tempore. Dolorum fuga nam qui ipsum voluptates asperiores doloribus! Asperiores, explicabo sunt totam cumque reprehenderit ipsam? Natus quae cum iusto asperiores architecto voluptates molestias porro enim facere velit, quos sequi dolorem commodi numquam libero dicta ducimus! Veniam aspernatur neque beatae doloremque commodi eaque dignissimos error, architecto nihil sit est, fugiat officia laborum incidunt exercitationem fugit et quisquam explicabo. Ad, quibusdam praesentium delectus dolorem alias tenetur, laboriosam et rem est iste distinctio harum?",
+        "name": "AI Bible Study Helper",
+        "image": "/profile.jpg",
+        "short": "Another significant project I paricipated is in developing an AI-powered Bible study assistant",
+        "description": "Another significant project I paricipated is in developing an AI-powered Bible study assistant, built using Retrieval-Augmented Generation (RAG). This tool is designed to help users explore biblical texts more deeply by providing context-aware responses, historical insights, and relevant scripture connections. By leveraging advanced AI techniques, the assistant can pull relevant verses, theological interpretations, and cross-references to enhance study sessions. Whether users are looking for deeper theological understanding, contextual explanations, or connections between passages, this AI-powered assistant acts as a guide, making Bible study more interactive and insightful. The implementation of RAG ensures accurate and meaningful responses, creating a more engaging and educational experience for users.",
         "status": "active",
-        "github": ""
+        "github": "https://github.com/VerseWise/verse-wise-cms.git"
     },
     {
         "id": "2",
-        "name": "Project 2",
-        "short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequuntur",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consequuntur, alias, sunt beatae dignissimos nulla suscipit commodi facere corporis necessitatibus dolorem magnam. Rem ducimus, illo dolores quia necessitatibus fugiat, esse, voluptatibus perferendis ad dolore exercitationem repellendus asperiores voluptate repudiandae fugit ullam! Officiis natus atque quo perspiciatis tempore veritatis incidunt ratione voluptatem sunt. Unde modi perferendis quis mollitia quod, voluptatem cumque quasi veritatis voluptates eveniet rem recusandae, exercitationem voluptate architecto error? Libero quis omnis labore architecto? Cum doloribus ipsam quam voluptas voluptatibus distinctio accusamus rerum, ipsa possimus autem. Maiores, alias impedit quasi saepe nulla deserunt tenetur dolorum magnam sapiente velit qui voluptate ipsum earum, ex fuga soluta quam dignissimos! Quidem molestias, quos quod nemo dolorem quibusdam quas. Commodi eius, aperiam eligendi aspernatur, praesentium illum eos quod atque laudantium accusantium tempore. Dolorum fuga nam qui ipsum voluptates asperiores doloribus! Asperiores, explicabo sunt totam cumque reprehenderit ipsam? Natus quae cum iusto asperiores architecto voluptates molestias porro enim facere velit, quos sequi dolorem commodi numquam libero dicta ducimus! Veniam aspernatur neque beatae doloremque commodi eaque dignissimos error, architecto nihil sit est, fugiat officia laborum incidunt exercitationem fugit et quisquam explicabo. Ad, quibusdam praesentium delectus dolorem alias tenetur, laboriosam et rem est iste distinctio harum?",
+        "name": "Todo List App",
+        "image": "/profile.jpg",
+        "short": "One of my projects is a well-structured and highly functional Todo List app, designed to streamline task management",
+        "description": "One of my projects is a well-structured and highly functional Todo List app, designed to streamline task management for users. The app features an intuitive user interface that allows for seamless task creation, editing, and organization. With a focus on user experience, it includes features like due date reminders, priority levels, and categorization to help users stay productive. I implemented efficient state management to ensure smooth interactions, and the app adapts well across different devices. By integrating modern frameworks and best coding practices, this Todo List app provides a simple yet powerful way to manage daily tasks efficiently.",
         "status": "active",
-        "github": ""
+        "github": "https://github.com/AbrehamElka/simple-todo-next.git"
     }
 ]
